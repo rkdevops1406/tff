@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucklebuck" {
-  bucket = "hackthon-bucket1"
+  bucket = "hackthon-bucket"
   acl    = "private"
 
   tags = {
