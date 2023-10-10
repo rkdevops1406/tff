@@ -1,8 +1,8 @@
 variable "access_key" {
-  default = "AKIA***************"
+  default = "***************"
   }
 variable "secret_key" {
-  default = "6B68****************"
+  default = "****************"
   }
 variable "region" {
   default = "us-east-2"
